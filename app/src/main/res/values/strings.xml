@@ -1,0 +1,101 @@
+<resources>
+    <!-- Multipurpose Text -->
+    <string name="app_name">Assignment</string>
+    <string name="background_image_description">Background image</string>
+    <string name="drop_down_description">Drop down button</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="icon_content_description_warning">Warning icon</string>
+    <string name="confirm_cantBeUndone">This cannot be undone.</string>
+    <string name="icon_disclaimer">All icons are sourced from Leremy - Flaticon</string>
+    <string name="icon_link">https://www.flaticon.com/authors/leremy</string>
+
+    <!-- Home Page text -->
+    <string name="home_button_text">Home Button</string>
+    <string name="home_title">WEEKLY WORKOUT</string>
+
+    <string name="settings_button_text">Settings Button</string>
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_button_clearAll">Delete All Data</string>
+    <string name="settings_confirm_clearAll_title">Are you sure you want to delete all data?</string>
+    <string name="settings_confirm_clearAll_content">This will reset the app to its default settings.</string>
+    <string name="settings_button_clearExercises">Delete All Exercises</string>
+    <string name="settings_confirm_clearExercises_title">Are you sure you want to delete all stored exercises?</string>
+    <string name="settings_confirm_clearExercises_content">This will also clear all workouts of exercises.</string>
+    <string name="settings_button_clearWorkouts">Reset All Workouts</string>
+    <string name="settings_confirm_clearWorkouts_title">Are you sure you want to reset your workouts?</string>
+    <string name="settings_button_changeBackground">Change Background Image</string>
+    <string name="settings_text_toggleNotifications">App Notifications</string>
+
+    <string name="exercises_button_text">Exercises Button</string>
+    <string name="exercises_title">EXERCISES</string>
+    <string name="exercise_reps_prefix">Reps:</string>
+    <string name="exercise_sets_prefix">Sets:</string>
+    <string name="exercise_weight_prefix">Weight:</string>
+    <string name="exercise_weight_suffix">kg</string>
+    <string name="exercise_icon_default_description">Exercise icon</string>
+    <string name="exercise_icon_addExercise_description">Add to Workout</string>
+    <string name="exercise_icon_moveExerciseUpwards_description">Move exercise upwards</string>
+    <string name="exercise_icon_moveExerciseDownwards_description">Move exercise downwards</string>
+    <string name="exercise_icon_removeExercise_description">Remove exercise from workout</string>
+    <string name="exercise_icon_editExercise_description">Edit Exercise</string>
+    <string name="exercise_icon_deleteExercise_description">Delete Exercise</string>
+    <string name="exercise_dialog_areYouSureDelete_title">Are you sure you want to delete this exercise?</string>
+
+    <string name="addExercise_title_addTo">"Add exercise to"</string>
+    <string name="addExercise_content_noAvailableExercises">You have no exercises. Create one using the button below.</string>
+    <string name="addExercise_button_createNewExercise">Create New</string>
+    <string name="addExercise_button_saveAndClose">Save and Exit</string>
+    <string name="addExercise_button_changeIcon">Change Icon</string>
+    <string name="addExercise_title_selectIcon">Select New Icon</string>
+
+    <string name="createExercise_title_createNewExercise">Create new exercise</string>
+    <string name="createExercise_content_exerciseName">Name of exercise:</string>
+    <string name="createExercise_content_exerciseReps">Exercise reps:</string>
+    <string name="createExercise_content_exerciseSets">Exercise sets:</string>
+    <string name="createExercise_content_exerciseWeight">Exercise weight:</string>
+
+    <string name="editExercise_title">Edit exercise</string>
+
+    <string name="workout_button_text">Workout button</string>
+    <string name="workout_noExercisesSet">No Exercises Set</string>
+    <string name="workout_button_addExercise_text">Add Exercise</string>
+    <string name="workout_button_clear_text">Clear</string>
+    <string name="workout_name_inputLabel">Workout Name</string>
+    <string name="workout_confirm_clearExercises_title">Are you sure you want to remove all exercises from this workout?</string>
+
+    <string name="runWorkout_title">\'s Workout</string>
+    <string name="runWorkout_confirmExit_title">Are you sure you want to end the exercise early?</string>
+    <string name="runWorkout_confirmExit_content">You cannot start from where you left off.</string>
+    <string name="runWorkout_welcomeMessage">Are you ready to start your workout for the day?</string>
+    <string name="runWorkout_welcomeMessageSub">Today\'s workout is</string>
+    <string name="runWorkout_button_startWorkout">Start Workout</string>
+    <string name="runWorkout_button_startExercise">Start Exercise</string>
+    <string name="runWorkout_button_cancelWorkout">Cancel Workout</string>
+    <string name="runWorkout_button_endSet">End Set</string>
+    <string name="runWorkout_button_nextSet">Next Set</string>
+    <string name="runWorkout_button_nextExercise">Next Exercise</string>
+    <string name="runWorkout_button_endEarly">End Early</string>
+    <string name="runWorkout_button_goBack">Go back</string>
+    <string name="runWorkout_button_redoWorkout">Redo Workout</string>
+    <string name="runWorkout_welcomeMessageNoExercises">This workout has no exercises</string>
+    <string name="runWorkout_welcomeMessageNoExercisesSub">Try adding some on the homepage!</string>
+    <string name="runWorkout_title_rest">Aaaand rest!</string>
+    <string name="runWorkout_title_workoutComplete">Workout Complete!</string>
+    <string name="runWorkout_title_alreadyCompleted">Already Completed!</string>
+    <string name="runWorkout_subTitle_exercise">Exercise</string>
+    <string name="runWorkout_subTitle_andFinal">and Final</string>
+    <string name="runWorkout_subTitle_unnamed">Unnamed exercise</string>
+    <string name="runWorkout_subTitle_setsLeft_prefix">Just</string>
+    <string name="runWorkout_subTitle_setsLeft_suffix">to go!</string>
+    <string name="runWorkout_subTitle_completedExercise">Exercise completed!</string>
+    <string name="runWorkout_subTitle_exercisesLeftPrefix">You have</string>
+    <string name="runWorkout_subTitle_exercisesLeftSuffix">left.</string>
+    <string name="runWorkout_subTitle_doWorkoutAgain">But you can do the workout again if you want</string>
+    <string name="runWorkout_sets_prefixNoColon">Set</string>
+    <string name="exercise_content_recommendedRestComment1">Info: The length of your rest depends on what the goal of your workout is. \nFor strength and power, rest for 2 – 5 minutes. For muscle growth, rest for 30 – 90 seconds. For endurance, rest for 30 seconds or less.</string>
+    <string name="exercise_content_recommendedRestComment2">Info: Make sure that your week gives you a wide range of different exercises to keep you focused.</string>
+    <string name="exercise_content_recommendedRestComment3">Info: Diet is just as important as exercise when it comes to fitness. Make sure you eat properly.</string>
+    <string name="exercise_content_recommendedRestComment4">Info: Don\'t overdo it! If your exercise pushes you past your limits, it could have major consequences.</string>
+    <string name="error_noWorkoutDetected">Error Code 10: No Workout Detected</string>
+</resources>
